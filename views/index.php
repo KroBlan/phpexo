@@ -8,6 +8,6 @@
         <title>Document</title>
     </head>
     <body>
-        Home Page
+        <label>DONNE FICHIER-><input type="file" accept=".csv"></input></label>
     </body>
 </html>
